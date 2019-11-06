@@ -342,7 +342,7 @@
     },
 
     "solrConnectionString": {
-      "type": "securestring",
+      "type": "string",
       "defaultValue": ""
     },
     "xcSolrConnectionString": {
