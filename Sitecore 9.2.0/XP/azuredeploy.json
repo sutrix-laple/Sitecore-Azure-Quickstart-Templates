@@ -700,7 +700,7 @@
     },
     "azureServiceBusSkuName": {
       "type": "string",
-      "defaultValue": "Extra Small"
+      "defaultValue": "Basic"
     },
     "azureServiceBusManageSharedAccessKeyName": {
       "type": "string",
